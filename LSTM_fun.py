@@ -5,7 +5,7 @@ from keras.models import Sequential
 from keras.layers import LSTM, Dense
 
 if __name__ == '__main__':
-	print('fuck me, right?')
+	print('why is this so hard')
 
 # generate and shape data
 data = [[i for i in range(100)]]
